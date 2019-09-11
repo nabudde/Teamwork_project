@@ -1,0 +1,42 @@
+body{
+    width:70%;
+  }
+  img{
+    float:left;
+    width:50%;
+    padding-top: 2%;
+    height:70%
+  }
+  .submit{
+      color:#fff;
+      background-color:green;
+      width: 80px;
+  } 
+  form{
+    float:right;
+    width: 30%;
+    margin: 30px auto;
+    text-align: center;
+    padding-top: 5em;
+  }
+  input {
+    width: 10em;
+    height: 35px;
+    border: 1px solid #a1a1a1;
+    margin: 10px 0;
+    padding: 0 15px;
+    outline: none;
+    color: #4a4a4a;
+  }
+  @media(max-width: 768px) {
+    img{
+        display:none;
+    }
+    .signup{
+        float:left;
+        width:50%;
+        font-size:larger;
+    }  
+
+} 
+  
