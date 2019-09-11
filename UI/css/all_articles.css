@@ -1,44 +1,7 @@
 body{
     width:100%;
 }
-/* ul {
-    list-style-type: none;
-    margin: 0.5em;
-    padding: 2px;
-    overflow: hidden;
-} */
-/* li{
-    float: left;
-} */
-/* li a {
-    text-decoration: none;
-    display: block;
-    padding: 20px;
-    background-color: #dddddd;
-  }  */
-  
-/* button{
-    border-radius:0.5em;
-    color: #4a4a4a;
-    background-color: aliceblue;
-    width:10em;
-    height:3em;
-    text-decoration: none;   
-} */
-/* h a{
-    text-decoration: none;
-}
-button{
-    float:right;
-    padding-top: 0.5em;
-} */
-/* h1{
-    float:left;
-    padding-left:6em;    
-} */
-/* button a{
-    text-decoration: none;
-} */
+
 h3 a{
     float:right;
     padding-left:5em;
@@ -55,10 +18,6 @@ img{
     width:25%;
     height:30%;
 }
-/* h2{
-    padding-left:6em;
-    padding-top: 0em;
-} */
 p{
     padding-left:9em;
 }
@@ -85,17 +44,6 @@ p{
  {body{
     width: 768px;
 }
-button{
-    border-radius:0.5em;
-    color: #4a4a4a;
-    background-color: aliceblue;
-    width:10em;
-    height:3em;
-    text-decoration: none;   
-}
-button{
-    float:left;
-}
 h1{
     padding:0em;
     float:left;
@@ -111,8 +59,7 @@ h3{
     width:40%;
 }
 img{
-    display:none;
-    
+    display:none;    
 }
 h2{
    padding :0em;
